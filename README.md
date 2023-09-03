@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **computer**
 
-- 📫 How to reach me **amitparajuli077@gmail.com**
-
 - ⚡ Fun fact **The average computer mouse travels over 1 mile (1.6 kilometers) on the mousepad each month, and it never asks for a break!"**
 
 
