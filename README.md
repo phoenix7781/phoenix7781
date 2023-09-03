@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix7781&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix7781" /> </p>
 
+- 🌱 I’m currently learning **java**
+
+- 💬 Ask me about **computer**
+
+- 📫 How to reach me **amitparajuli077@gmail.com**
+
+- ⚡ Fun fact **The average computer mouse travels over 1 mile (1.6 kilometers) on the mousepad each month, and it never asks for a break!"**
+
 
 <p align="left"> <a href="https://twitter.com/amitparajuli23" target="blank"><img src="https://img.shields.io/twitter/follow/amitparajuli23?logo=twitter&style=for-the-badge" alt="amitparajuli23" /></a> </p>
 
